@@ -13,8 +13,8 @@ orgs:
     repos:
       ".github":
         default_branch: main
-        description: demo
-      test:
+        description: demo for managing org
+      test-org:
         default_branch: main
         description: huiwang-org
     docs:
