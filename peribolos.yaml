@@ -1,0 +1,21 @@
+orgs:
+  huiwang-org:
+    description: this is a demo for manage org
+    default_repository_permission: read
+    has_organization_projects: true
+    has_repository_projects: true
+    members_can_create_repositories: true
+    admins:
+      - huiwangredhat
+      - jihupdc
+    members:
+      - hanchuntao
+    repos:
+      ".github":
+        default_branch: main
+        description: demo
+      test:
+        default_branch: main
+        description: huiwang-org
+    docs:
+        description: Documentation
