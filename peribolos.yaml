@@ -10,6 +10,7 @@ orgs:
       - jihupdc
     members:
       - hanchuntao
+      - emilyzheng
     repos:
       ".github":
         default_branch: main
