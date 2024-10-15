@@ -9,13 +9,10 @@ orgs:
       - huiwangredhat
       - jihupdc
     members:
-      - hanchuntao
+      - wanghuiredhat
     repos:
       ".github":
         default_branch: main
         description: demo
-      test:
-        default_branch: main
-        description: huiwang-org
     docs:
         description: Documentation
